@@ -1,4 +1,4 @@
-var endpoint = "https://www.jsonstore.io/8ba4fd855086288421f770482e372ccb5a05d906269a34da5884f39eed0418a1";
+var endpoint = "https://www.jsonstore.io/b71f58250687af04f00b0c36eb9535019dc0192b2090f2d047c43004e349ae1a";
 
 function geturl(){
     var url = document.getElementById("urlinput").value;
